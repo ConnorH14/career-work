@@ -1,0 +1,5 @@
+I have enjoyed coding for over half of my life, and have been writing some form of code since early middle school. I gained a lot of experience in
+HTML, CSS, and JavaScript while in high school but after that I decided to pursue a biology degree at Boise State. After a year at BSU I realized
+that I enjoyed software development a lot more than my current major and decided to attend Boise Codeworks to get my foot back in the door of
+web development. I have found that I really enjoy fullstack development, watching all aspects of a project come together is my favorite part of
+writing code. 
